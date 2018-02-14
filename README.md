@@ -1,4 +1,4 @@
-Longing for some old-school(ish) Turbo Pascal/BCPP hues?
+Longing for some old-school(ish) Turbo Pascal/BCPP hues for your Atom editor?
 
 Look no further. Enjoy!
 
