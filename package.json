@@ -1,0 +1,15 @@
+{
+  "name": "oldeschule-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Sixteen shades of Bondage and Discipline",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/oldeschule-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
